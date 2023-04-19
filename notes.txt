@@ -1,0 +1,2 @@
+//TODO wymagane pola i niewymagane pola, zrobić przykładowe JSON'y które bedą rzucać wyjątkiem przy parsowaniu
+Zrobić tak, żeby puste pola nie były wrzucane do JSON'a (pomijane)
